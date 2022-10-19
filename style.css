@@ -1,0 +1,24 @@
+
+h3 {
+    background-color: darkgreen;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    background-color: red;
+}
+
+h1{
+    color: blueviolet;
+}
+h2{
+    background-color: orange;
+    color:orange;
+}
+h3{
+color:red;
+background-color: orange;
+}
